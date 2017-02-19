@@ -1,0 +1,28 @@
+---
+page_title: Template for Middleman 4
+---
+
+.row
+  .small-12.columns
+    h2
+      => data.site.classroom.title
+      => data.site.classroom.place
+      = data.site.classroom.year
+
+.row.small-up-2.medium-up-3.large-up-4
+  - data.students.each do |student|
+    .columns
+      .card
+        .card-section
+          strong = student.fullname
+        = image_tag student.image, alt: "Picture of #{student.fullname}"
+        
+        .card-section
+          = link_to "https://twitter.com/#{student.twitter}", class: 'twitter-link', target: '_blank' do
+            i.fa.fa-twitter-square.fa-2x
+          
+          = link_to "https://github.com/#{student.github}", class: 'github-link', target: '_blank' do
+            i.fa.fa-github-square.fa-2x.fa-fw
+          
+          = link_to student.linkedin_url, class: 'linkedin-link', target: '_blank' do
+            i.fa.fa-linkedin-square.fa-2x

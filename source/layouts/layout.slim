@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    = partial 'layouts/meta_tags'
+    = favicon_tag 'logo.jpg'
+    = stylesheet_link_tag :application
+    = stylesheet_link_tag 'https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
+  body class="#{page_classes}"
+    .container
+      .layout
+        .layout-sidebar
+          = partial 'layouts/sidebar'
+        .layout-content
+          = yield          
+    = javascript_include_tag :application

@@ -1,0 +1,20 @@
+h2 Teacher
+p
+  strong
+    = data.site.teacher.fullname
+
+.avatar
+  = image_tag(gravatar_for data.site.mail)
+
+.row
+  .small-12.columns
+    = link_to 'Ask Me Anything', 'https://github.com/flexbox/ama', class: 'button large secondary', target: '_blank'
+
+= link_to "https://twitter.com/#{data.site.teacher.twitter}", class: 'twitter-link', target: '_blank' do
+  i.fa.fa-twitter-square.fa-4x
+
+= link_to "https://github.com/#{data.site.teacher.github}", class: 'github-link', target: '_blank' do
+  i.fa.fa-github-square.fa-4x.fa-fw
+
+= link_to data.site.teacher.linkedin_url, class: 'linkedin-link', target: '_blank' do
+  i.fa.fa-linkedin-square.fa-4x

@@ -1,0 +1,22 @@
+$avatar-size: 200px;
+
+.avatar {
+  border: 1px solid $white;
+  background-image: linear-gradient(360deg, $purple 0%, $green 100%);
+  width: $avatar-size;
+  margin: 0 auto;
+  border-radius: 100%;
+  margin-bottom: 1rem;
+
+  img {
+    border: 3px solid $white;
+    min-height: $avatar-size;
+    min-width: $avatar-size;
+    padding: 3px;
+    border-radius: 100%;
+  }
+}
+
+.button {
+  font-weight: 600;
+}

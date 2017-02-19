@@ -1,0 +1,46 @@
+$white-pure: #FAFAFA;
+$white:      #F3F6F6;
+
+$blue:       #55B3F3;
+$purple:     #6356E5;
+$green:      #90EEE1;
+
+$black:      #273952;
+$gray:       #F3F3F3;
+
+$foundation-palette: (
+  primary: $blue,
+  secondary: $purple,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+);
+
+$medium-gray: $gray;
+$body-background: $white;
+$body-font-color: $black;
+
+
+
+$github:   #24292E;
+$linkedin: #0077b5;
+$twitter:  #55acee;
+
+@mixin brand-links($color) {
+  color: $color;
+  &:hover {
+    color: scale-color($color, $lightness: 10%);
+  }
+}
+
+.twitter-link {
+  @include brand-links($twitter);
+}
+
+.github-link {
+  @include brand-links($github);
+}
+
+.linkedin-link {
+  @include brand-links($linkedin);
+}
