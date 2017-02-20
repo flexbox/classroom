@@ -11,6 +11,9 @@ $column-width: 350px;
   display: flex;
   flex: 1;
   background-color: $gray;
+  @include breakpoint(small only) {
+    flex-direction: column-reverse;
+  }
 
   &-sidebar {
     flex: 0 0 $column-width;
