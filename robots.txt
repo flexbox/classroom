@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: http://cveneziani.github.io/middleman-boilerplate//sitemap.xml
+Sitemap: https://github.com/flexbox/classroom//sitemap.xml
