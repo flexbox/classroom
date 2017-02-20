@@ -15,14 +15,17 @@ page_title: Template for Middleman 4
       .card
         .card-section
           strong = student.fullname
-        = image_tag student.image, alt: "Picture of #{student.fullname}"
-        
+        - if student.image
+          = image_tag student.image, alt: "Picture of #{student.fullname}"
+        - else
+          = image_tag(gravatar_for student.email_gravatar)
+
         .card-section
           = link_to "https://twitter.com/#{student.twitter}", class: 'twitter-link', target: '_blank' do
             i.fa.fa-twitter-square.fa-2x
-          
+
           = link_to "https://github.com/#{student.github}", class: 'github-link', target: '_blank' do
             i.fa.fa-github-square.fa-2x.fa-fw
-          
+
           = link_to student.linkedin_url, class: 'linkedin-link', target: '_blank' do
             i.fa.fa-linkedin-square.fa-2x
