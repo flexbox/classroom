@@ -11,6 +11,12 @@
   linkedin_url: https://www.linkedin.com/in/david-leuliette-456701121/
   image: http://cdn1-www.comingsoon.net/assets/uploads/1970/01/file_611375_x-men-apocalypse-picture-jean-grey-640x478.jpg
 -
+  fullname: Valentin Messiaen
+  twitter: valentinmessiaen
+  github: Valkeupon
+  linkedin_url: https://www.linkedin.com/in/valentin-messiaen-2aa650a9/
+  image:
+-
   fullname: Henri Tournoys
   twitter: htournoys
   github: htournoys
@@ -18,14 +24,41 @@
   image: 
   email_gravatar: htournoys@gmail.com
 -
+  fullname: Hafsa Danguir
+  twitter: HafsaDanguir
+  github: danguir
+  linkedin_url: https://www.linkedin.com/in/hafsa-danguir-49169867
+  image: 
+  email_gravatar: hafsa.danguir@gmail.com
+-
   fullname: Thomas Vanwelden
   twitter: thomasvanwelden
   github: totoyor
   linkedin_url: https://www.linkedin.com/in/thomasvanwelden/
-  image: https://s-media-cache-ak0.pinimg.com/564x/16/7b/67/167b67432d4761c4d7ffead6bf3134ab.jpg
+  email_gravatar: vanweldenthomas@live.fr
 -
   fullname: Lucas Leclercq
   twitter: lucasleclercq9
   github: lucasleclercq
   linkedin_url: https://www.linkedin.com/in/leclercq-lucas-7a1474a9
   image: https://en.gravatar.com/userimage/117327921/3935d5b5af9776b9024f11636df36aab.jpeg
+-
+  fullname: Alexandre Flament
+  twitter: Alekc05
+  github: Diezeal
+  linkedin_url: https://www.linkedin.com/in/alexandre-flament-203164114/
+  image: https://fr.gravatar.com/alexandreflament05
+-
+  fullname: Coraline Bodnar
+  twitter: cora__b
+  github: corabdr
+  linkedin_url: https://www.linkedin.com/in/coraline-bodnar-660821113/
+  image: 
+  email_gravatar: coraline.bodnar@hotmail.fr
+-
+  fullname: Hafsa Danguir
+  twitter: HafsaDanguir
+  github: danguir
+  linkedin_url: https://www.linkedin.com/in/hafsa-danguir-49169867
+  image: 
+  email_gravatar: hafsa.danguir@gmail.com
