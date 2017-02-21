@@ -9,16 +9,17 @@ page_title: Template for Middleman 4
       => data.site.classroom.place
       = data.site.classroom.year
 
-.row.small-up-2.medium-up-3.large-up-4
+.row.small-up-1.medium-up-3.large-up-4
   - data.students.each do |student|
     .columns
       .card
         .card-section
           strong = student.fullname
-        - if student.image
-          = image_tag student.image, alt: "Picture of #{student.fullname}"
-        - else
+
+        - if student.email_gravatar
           = image_tag(gravatar_for student.email_gravatar)
+        - else
+          = image_tag lorem.image(250)
 
         .card-section
           = link_to "https://twitter.com/#{student.twitter}", class: 'twitter-link', target: '_blank' do

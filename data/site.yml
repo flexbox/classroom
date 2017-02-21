@@ -3,7 +3,7 @@ baseline: "The only place you need to have cools links of your classmates 📚"
 mail: "dleuliette@gmail.com"
 name: "Classroom"
 twitter: "_flexbox"
-url: "http://cveneziani.github.io/middleman-boilerplate/"
+url: "https://github.com/flexbox/classroom/"
 geocoding:
   place: "Lille, Nord"
   latitude: "50.629250"
@@ -11,8 +11,8 @@ geocoding:
   region: "FR-59"
 
 classroom:
-  place: Xavier Institute
-  year: for Higher Learning
+  place: Efficom
+  year: 2017
 
 teacher:
   fullname: David Leuliette
