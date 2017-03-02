@@ -10,9 +10,9 @@ page_title: Classroom
       = data.site.classroom.year
 
 .row.small-up-1.medium-up-3.large-up-4
-  - data.students.each do |student|
+  - data.students.each_with_index do |student, i|
     .columns
-      .card
+      div id="js-student-#{i}" class="card"
         .card-section
           strong = student.fullname
 
