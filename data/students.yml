@@ -1,16 +1,4 @@
 -
-  fullname: 'Bernard Quentin'
-  twitter:
-  github: quentinbernard
-  linkedin_url: https://www.linkedin.com/in/quentin-bernard-3ba81213a
-  email_gravatar: qbernard18@gmail.com
--
-  fullname: Thomas Caillier
-  twitter:
-  github: thomascaillier
-  linkedin_url: https://www.linkedin.com/in/thomas-caillier
-  email_gravatar: thomascaillier@gmail.com
--
   fullname: Thomas Debusschere
   twitter: ThoDe
   github: Debussch
@@ -41,10 +29,11 @@
   linkedin_url: https://www.linkedin.com/in/julien-haegman-19080313a/
   email_gravatar: haegman.julien@laposte.net
 -
-  fullname: Rudy Marle
-  github: https://github.com/Tengou
-  linkedin_url: https://www.linkedin.com/in/rudy-marle-b7627b11b/
-  email_gravatar: rudy.marle@orange.fr
+  fullname: Jean Grey
+  twitter: phoenix
+  github: phoenix
+  linkedin_url: https://www.linkedin.com/in/david-leuliette-456701121/
+  email_gravatar: dleuliette+grey@gmail.com
 -
   fullname: Maxime Dhaisne
   twitter: PapaTitusium
@@ -53,7 +42,6 @@
   email_gravatar: maxime.dhiut@gmail.com
 -
   fullname: Simon Clerbout
-  Twitter:
   github: SimonClerbout
   linkedin_url: https://www.linkedin.com/in/simon-clerbout-11b81013a/
   email_gravatar: simon.clerbout@laposte.net
@@ -63,3 +51,9 @@
   github: RubenSoetewey
   linkedin_url: https://www.linkedin.com/in/ruben-soetewey-0b137b108/
   email_gravatar: ruben.soetewey@hotmail.fr
+-
+  fullname: Simon Boily
+  twitter: Simon
+  github: Simon997
+  linkedin_url: https://www.linkedin.com/in/simon-boily-53381413a/
+  email_gravatar: sim.boily311@gmail.com
