@@ -1,4 +1,16 @@
 -
+  fullname: 'Bernard Quentin'
+  twitter:
+  github: quentinbernard
+  linkedin_url: https://www.linkedin.com/in/quentin-bernard-3ba81213a
+  email_gravatar: qbernard18@gmail.com
+-
+  fullname: Thomas Caillier
+  twitter:
+  github: thomascaillier
+  linkedin_url: https://www.linkedin.com/in/thomas-caillier
+  email_gravatar: thomascaillier@gmail.com
+-
   fullname: Thomas Debusschere
   twitter: ThoDe
   github: Debussch
@@ -36,7 +48,7 @@
   email_gravatar: dleuliette+grey@gmail.com
 -
   fullname: Rudy Marle
-  github: https://github.com/Tengou
+  github: Tengou
   linkedin_url: https://www.linkedin.com/in/rudy-marle-b7627b11b/
   email_gravatar: rudy.marle@orange.fr
 -
@@ -56,13 +68,13 @@
   github: RubenSoetewey
   linkedin_url: https://www.linkedin.com/in/ruben-soetewey-0b137b108/
   email_gravatar: ruben.soetewey@hotmail.fr
- -
- fullname: Roussel Melvyn
+-
+  fullname: Roussel Melvyn
   twitter:
   github: MelvynRn
-  linkedin_url:https://www.linkedin.com/in/melvyn-roussel-nared-b520b6136/
+  linkedin_url: https://www.linkedin.com/in/melvyn-roussel-nared-b520b6136/
   email_gravatar: melrousseln@gmail.com
-  -
+-
   fullname: Quentin Castell
   github: Quentin-Castell
   linkedin_url: https://www.linkedin.com/in/quentin-castell-67680b13a/
