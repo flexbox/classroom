@@ -1,10 +1,4 @@
 -
-  fullname: Thomas Caillier
-  twitter:
-  github: thomascaillier
-  linkedin_url: https://www.linkedin.com/in/thomas-caillier
-  email_gravatar: thomascaillier@gmail.com
--
   fullname: Thomas Debusschere
   twitter: ThoDe
   github: Debussch
@@ -35,10 +29,11 @@
   linkedin_url: https://www.linkedin.com/in/julien-haegman-19080313a/
   email_gravatar: haegman.julien@laposte.net
 -
-  fullname: Rudy Marle
-  github: https://github.com/Tengou
-  linkedin_url: https://www.linkedin.com/in/rudy-marle-b7627b11b/
-  email_gravatar: rudy.marle@orange.fr
+  fullname: Jean Grey
+  twitter: phoenix
+  github: phoenix
+  linkedin_url: https://www.linkedin.com/in/david-leuliette-456701121/
+  email_gravatar: dleuliette+grey@gmail.com
 -
   fullname: Maxime Dhaisne
   twitter: PapaTitusium
@@ -56,3 +51,8 @@
   github: RubenSoetewey
   linkedin_url: https://www.linkedin.com/in/ruben-soetewey-0b137b108/
   email_gravatar: ruben.soetewey@hotmail.fr
+  -
+  fullname: Quentin Castell
+  github: Quentin-Castell
+  linkedin_url: https://www.linkedin.com/in/quentin-castell-67680b13a/
+  email_gravatar: castell.quentin@gmail.com
