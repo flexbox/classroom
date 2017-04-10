@@ -1,18 +1,34 @@
 [
   {
-    "fullname": "Demian Ortega",
-    "twitter": "demianortega",
-    "github": "bidays",
-    "linkedin_url": "https://www.linkedin.com/in/demian-ortega-marovac/",
-    "email_gravatar": "demian.ortega.m@gmail.com",
-    "team": "Pink"
+    "fullname": "Jean Grey",
+    "twitter": "phoenix",
+    "github": "phoenix",
+    "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
+    "email_gravatar": "dleuliette+grey@gmail.com",
+    "team": "Yellow"
   },
   {
-    "fullname": "Denis Reis",
-    "twitter": "https://twitter.com/Denis_RDA",
-    "github": "DenR2",
-    "linkedin_url": "https://www.linkedin.com/in/denis-reis-99a715b1/",
-    "email_gravatar": "denis.reisdeamoreira@gmail.com",
-    "team": "Pink"
-  }
+    "fullname": "Scott Summers",
+    "twitter": "cyclope",
+    "github": "cyclope",
+    "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
+    "email_gravatar": "dleuliette+summers@gmail.com",
+    "team": "Yellow"
+  },
+  {
+    "fullname": "Pauline Koziol",
+    "twitter": "Pauline_Koziol",
+    "github": "Paups",
+    "linkedin_url": "https://www.linkedin.com/in/pauline-koziol-bb6a6b108/",
+    "email_gravatar": "paulinekoziol@gmail.com",
+    "team": "Purple"
+  },
+  {
+    "fullname": "Coraline Bodnar",
+    "twitter": "cora__b",
+    "github": "corabdr",
+    "linkedin_url": "https://www.linkedin.com/in/coraline-bodnar-660821113/",
+    "email_gravatar": "coraline.bodnar@gmail.com",
+    "team": "Purple"
+  }  
 ]
