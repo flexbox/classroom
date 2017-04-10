@@ -14,5 +14,22 @@
     "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
     "email_gravatar": "dleuliette+summers@gmail.com",
     "team": "Yellow"
-  }  
+  },
+  {
+    "fullname": "Messiaen Valentin",
+    "twitter": "https://twitter.com/ValMess59",
+    "github": "https://github.com/Valkeupon",
+    "linkedin_url": "https://www.linkedin.com/in/valentin-messiaen-2aa650a9/",
+    "email_gravatar": "valentin.messiaen@gmail.com",
+    "team": "pépére"
+  },
+  {
+    "fullname": "Thibaut Lefevre",
+    "twitter": "",
+    "github": "https://github.com/Tibokool",
+    "linkedin_url": "https://www.linkedin.com/in/thibaut-lefevre-3b8832b3/",
+    "email_gravatar": "thibaut.contact@gmail.com",
+    "team": "pépére"
+  },
+  
 ]
