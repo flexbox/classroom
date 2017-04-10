@@ -30,5 +30,99 @@
     "linkedin_url": "https://www.linkedin.com/in/khemissi-anouar-752186106/",
     "email_gravatar": "khemissianwar@gmail.com",
     "team": "Black"
-  }
+  },
+  {
+    "fullname": "Messiaen Valentin",
+    "twitter": "https://twitter.com/ValMess59",
+    "github": "https://github.com/Valkeupon",
+    "linkedin_url": "https://www.linkedin.com/in/valentin-messiaen-2aa650a9/",
+    "email_gravatar": "valentin.messiaen@gmail.com",
+    "team": "pépére"
+  },
+  {
+    "fullname": "Thibaut Lefevre",
+    "twitter": "",
+    "github": "https://github.com/Tibokool",
+    "linkedin_url": "https://www.linkedin.com/in/thibaut-lefevre-3b8832b3/",
+    "email_gravatar": "thibaut.contact@gmail.com",
+    "team": "pépére"
+  },
+  {
+    "fullname": "Lucas Leclercq",
+    "twitter": "lucaslerclercq9",
+    "github": "lalule",
+    "linkedin_url": "https://www.linkedin.com/in/leclercq-lucas-7a1474a9",
+    "email_gravatar": "lucas@mo-jo.fr",
+    "team": "Silver"
+  },
+  {
+    "fullname": "Nicolas Herwegh",
+    "github": "nherwegh",
+    "linkedin_url": "https://www.linkedin.com/in/nicolas-herwegh-3a4494136/",
+    "email_gravatar": "nherwegh@me.com",
+    "team": "Silver"
+  },
+  {
+    "fullname": "Coraline Bodnar",
+    "twitter": "cora__b",
+    "github": "corabdr",
+    "linkedin_url": "https://www.linkedin.com/in/coraline-bodnar-660821113/",
+    "email_gravatar": "coraline.bodnar@gmail.com",
+    "team": "Purple"
+  },
+  {
+    "fullname": "Pauline Koziol",
+    "twitter": "Pauline_Koziol",
+    "github": "Paups",
+    "linkedin_url": "https://www.linkedin.com/in/pauline-koziol-bb6a6b108/",
+    "email_gravatar": "paulinekoziol@gmail.com",
+    "team": "Purple"
+  },
+  {
+    "fullname": "Maud REMORIQUET",
+    "twitter": "mihani_",
+    "github": "Mihani",
+    "linkedin_url": "https://www.linkedin.com/in/maudremoriquet/",
+    "email_gravatar": "maud.remoriquet@gmail.com",
+    "team": "Red"
+  },
+  {
+    "fullname": "Thomas CAULIEZ",
+    "twitter": "",
+    "github": "t-durden",
+    "linkedin_url": "linkedin.com/in/thomas-cauliez-913283121",
+    "email_gravatar": "",
+    "team": "Red"
+  },
+  {
+    "fullname": "Alexandre Flament",
+    "twitter": "Alekc05",
+    "github": "Diezeal",
+    "linkedin_url": "https://www.linkedin.com/in/alexandre-flament-203164114/",
+    "email_gravatar": "alexandre.flament05@gmail.com",
+    "team": "white"
+  },
+  {
+    "fullname": "Thomas Vanwelden",
+    "twitter": "",
+    "github": "Totoyor",
+    "linkedin_url": "https://www.linkedin.com/in/thomasvanwelden/",
+    "email_gravatar": "vanweldenthomas@live.fr",
+    "team": "white"
+  },
+    "fullname": "Rosalie Leconte",   
+    "twitter": "Roza_lec",
+    "github": "Rosalieleconte",
+    "linkedin_url": "https://www.linkedin.com/in/rosalie-leconte-b75653b7/",
+    "email_gravatar": "leconte.rosalie@hotmail.fr",
+    "team": "Green"
+  },
+  {
+    "fullname": "Anthony Lefebvre",
+    "twitter": "lefebvreant",
+    "github": "lefebvreant",
+    "linkedin_url": "https://www.linkedin.com/in/lefebvreant",
+    "email_gravatar": "anthony.59.lefebvre@gmail.com",
+    "team": "Green"  
+  }  
 ]
