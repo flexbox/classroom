@@ -31,5 +31,20 @@
     "email_gravatar": "thibaut.contact@gmail.com",
     "team": "pépére"
   },
-  
+  {
+    "fullname": "Pauline Koziol",
+    "twitter": "Pauline_Koziol",
+    "github": "Paups",
+    "linkedin_url": "https://www.linkedin.com/in/pauline-koziol-bb6a6b108/",
+    "email_gravatar": "paulinekoziol@gmail.com",
+    "team": "Purple"
+  },
+  {
+    "fullname": "Coraline Bodnar",
+    "twitter": "cora__b",
+    "github": "corabdr",
+    "linkedin_url": "https://www.linkedin.com/in/coraline-bodnar-660821113/",
+    "email_gravatar": "coraline.bodnar@gmail.com",
+    "team": "Purple"
+  }  
 ]
