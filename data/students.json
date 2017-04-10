@@ -79,6 +79,22 @@
     "team": "Purple"
   },
   {
+    "fullname": "Léa Livran",
+     "twitter": "LeaLivran",
+     "github": "lealivran",
+     "linkedin_url": "https://www.linkedin.com/in/l%C3%A9a-livran-77bab2a7/",
+     "email_gravatar": "lea.livran@gmail.com",
+     "team": "Purple"
+  },
+  {
+    "fullname": "ghost",
+     "twitter": "",
+     "github": "",
+     "linkedin_url": "",
+     "email_gravatar": "",
+     "team": ""
+  },
+  {
     "fullname": "Maud REMORIQUET",
     "twitter": "mihani_",
     "github": "Mihani",
@@ -110,7 +126,8 @@
     "email_gravatar": "vanweldenthomas@live.fr",
     "team": "white"
   },
-    "fullname": "Rosalie Leconte",   
+  {
+    "fullname": "Rosalie Leconte",
     "twitter": "Roza_lec",
     "github": "Rosalieleconte",
     "linkedin_url": "https://www.linkedin.com/in/rosalie-leconte-b75653b7/",
@@ -123,6 +140,21 @@
     "github": "lefebvreant",
     "linkedin_url": "https://www.linkedin.com/in/lefebvreant",
     "email_gravatar": "anthony.59.lefebvre@gmail.com",
-    "team": "Green"  
-  }  
+    "team": "Green"
+  },
+  {
+    "fullname": "Nicolas Guillou",
+    "twitter": "",
+    "github": "Yoplom",
+    "linkedin_url": "https://www.linkedin.com/in/guillounicolas/",
+    "email_gravatar": "",
+    "team": "Gold"
+  },
+  {
+    "fullname": "Nantoy Alladoum",
+    "github": "nantoy",
+    "linkedin_url": "https://www.linkedin.com/in/nantoy-alladoum-b323a2102/",
+    "email_gravatar": "alladoumprince@yahoo.fr",
+    "team": "Gold"
+  }
 ]

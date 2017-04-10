@@ -14,24 +14,27 @@ page_title: Classroom
 
 .row.small-up-1.medium-up-2.large-up-4
   - data.students.each_with_index do |student, i|
-    .columns
-      div id="js-student-#{i}" class="card"
-        .card-section
-          span.label = student.team
-          br
-          strong = student.fullname
+    - if student.fullname === 'ghost'
+      .columns
+    - else
+      .columns
+        div id="js-student-#{i}" class="card"
+          .card-section
+            span.label style="background-color: #{student.team}" = student.team
+            br
+            strong = student.fullname
 
-        - if student.email_gravatar
-          = image_tag(gravatar_for student.email_gravatar)
-        - else
-          = image_tag lorem.image(250)
+          - if student.email_gravatar
+            = image_tag(gravatar_for student.email_gravatar)
+          - else
+            = image_tag lorem.image(250)
 
-        .card-section
-          = link_to "https://twitter.com/#{student.twitter}", class: 'twitter-link', target: '_blank' do
-            i.fa.fa-twitter-square.fa-2x
+          .card-section
+            = link_to "https://twitter.com/#{student.twitter}", class: 'twitter-link', target: '_blank' do
+              i.fa.fa-twitter-square.fa-2x
 
-          = link_to "https://github.com/#{student.github}", class: 'github-link', target: '_blank' do
-            i.fa.fa-github-square.fa-2x.fa-fw
+            = link_to "https://github.com/#{student.github}", class: 'github-link', target: '_blank' do
+              i.fa.fa-github-square.fa-2x.fa-fw
 
-          = link_to student.linkedin_url, class: 'linkedin-link', target: '_blank' do
-            i.fa.fa-linkedin-square.fa-2x
+            = link_to student.linkedin_url, class: 'linkedin-link', target: '_blank' do
+              i.fa.fa-linkedin-square.fa-2x
