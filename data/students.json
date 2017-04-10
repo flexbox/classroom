@@ -31,6 +31,14 @@
     "email_gravatar": "thibaut.contact@gmail.com",
     "team": "pépére"
   },
+    {
+    "fullname": "Nicolas Guillou",
+    "twitter": "",
+    "github": "https://github.com/Yoplom",
+    "linkedin_url": "https://www.linkedin.com/in/guillounicolas/",
+    "email_gravatar": "ni.guillou@gmail.com",
+    "team": "pépére"
+  },
   {
     "fullname": "Pauline Koziol",
     "twitter": "Pauline_Koziol",
@@ -46,21 +54,5 @@
     "linkedin_url": "https://www.linkedin.com/in/coraline-bodnar-660821113/",
     "email_gravatar": "coraline.bodnar@gmail.com",
     "team": "Purple"
-  },
-  {
-    "fullname": "Maud REMORIQUET",
-    "twitter": "mihani_",
-    "github": "Mihani",
-    "linkedin_url": "https://www.linkedin.com/in/maudremoriquet/",
-    "email_gravatar": "maud.remoriquet@gmail.com",
-    "team": "Red"
-  },
-  {
-    "fullname": "Thomas CAULIEZ",
-    "twitter": "",
-    "github": "t-durden",
-    "linkedin_url": "linkedin.com/in/thomas-cauliez-913283121",
-    "email_gravatar": "",
-    "team": "Red"
   }
 ]
