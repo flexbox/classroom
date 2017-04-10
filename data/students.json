@@ -62,5 +62,13 @@
     "linkedin_url": "linkedin.com/in/thomas-cauliez-913283121",
     "email_gravatar": "",
     "team": "Red"
+  },
+    {
+    "fullname": "Nicolas Guillou",
+    "twitter": "",
+    "github": "Yoplom",
+    "linkedin_url": "https://www.linkedin.com/in/guillounicolas/",
+    "email_gravatar": "",
+    "team": "Green"
   }
 ]
