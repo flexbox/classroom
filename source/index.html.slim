@@ -7,7 +7,10 @@ page_title: Classroom
     h2
       => data.site.classroom.title
       => data.site.classroom.place
-      = data.site.classroom.year
+      small.subheader
+        '—
+        time datetime="#{Date.today.strftime('%B %Y')}"
+          = Date.today.strftime('%B %Y')
 
 .row.small-up-1.medium-up-3.large-up-4
   - data.students.each_with_index do |student, i|
