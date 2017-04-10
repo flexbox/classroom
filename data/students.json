@@ -32,12 +32,19 @@
     "team": "pépére"
   },
   {
-    "fullname": "Pauline Koziol",
-    "twitter": "Pauline_Koziol",
-    "github": "Paups",
-    "linkedin_url": "https://www.linkedin.com/in/pauline-koziol-bb6a6b108/",
-    "email_gravatar": "paulinekoziol@gmail.com",
-    "team": "Purple"
+    "fullname": "Lucas Leclercq",
+    "twitter": "lucaslerclercq9",
+    "github": "lalule",
+    "linkedin_url": "https://www.linkedin.com/in/leclercq-lucas-7a1474a9",
+    "email_gravatar": "lucas@mo-jo.fr",
+    "team": "Silver"
+  },
+  {
+    "fullname": "Nicolas Herwegh",
+    "github": "nherwegh",
+    "linkedin_url": "https://www.linkedin.com/in/nicolas-herwegh-3a4494136/",
+    "email_gravatar": "nherwegh@me.com",
+    "team": "Silver"
   },
   {
     "fullname": "Coraline Bodnar",
@@ -45,6 +52,14 @@
     "github": "corabdr",
     "linkedin_url": "https://www.linkedin.com/in/coraline-bodnar-660821113/",
     "email_gravatar": "coraline.bodnar@gmail.com",
+    "team": "Purple"
+  },
+  {
+    "fullname": "Pauline Koziol",
+    "twitter": "Pauline_Koziol",
+    "github": "Paups",
+    "linkedin_url": "https://www.linkedin.com/in/pauline-koziol-bb6a6b108/",
+    "email_gravatar": "paulinekoziol@gmail.com",
     "team": "Purple"
   },
   {
