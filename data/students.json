@@ -1,19 +1,35 @@
 [
   {
-    "fullname": "Jean Grey",
-    "twitter": "phoenix",
-    "github": "phoenix",
-    "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
-    "email_gravatar": "dleuliette+grey@gmail.com",
-    "team": "Yellow"
+    "fullname": "Demian Ortega",
+    "twitter": "demianortega",
+    "github": "bidays",
+    "linkedin_url": "https://www.linkedin.com/in/demian-ortega-marovac/",
+    "email_gravatar": "demian.ortega.m@gmail.com",
+    "team": "Pink"
   },
   {
-    "fullname": "Scott Summers",
-    "twitter": "cyclope",
-    "github": "cyclope",
-    "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
-    "email_gravatar": "dleuliette+summers@gmail.com",
-    "team": "Yellow"
+    "fullname": "Denis Reis",
+    "twitter": "https://twitter.com/Denis_RDA",
+    "github": "DenR2",
+    "linkedin_url": "https://www.linkedin.com/in/denis-reis-99a715b1/",
+    "email_gravatar": "denis.reisdeamoreira@gmail.com",
+    "team": "Pink"
+  },
+  {
+    "fullname": "Messiaen Valentin",
+    "twitter": "https://twitter.com/ValMess59",
+    "github": "https://github.com/Valkeupon",
+    "linkedin_url": "https://www.linkedin.com/in/valentin-messiaen-2aa650a9/",
+    "email_gravatar": "valentin.messiaen@gmail.com",
+    "team": "pépére"
+  },
+  {
+    "fullname": "Thibaut Lefevre",
+    "twitter": "",
+    "github": "https://github.com/Tibokool",
+    "linkedin_url": "https://www.linkedin.com/in/thibaut-lefevre-3b8832b3/",
+    "email_gravatar": "thibaut.contact@gmail.com",
+    "team": "pépére"
   },
   {
     "fullname": "Lucas Leclercq",
@@ -29,5 +45,13 @@
     "linkedin_url": "https://www.linkedin.com/in/nicolas-herwegh-3a4494136/",
     "email_gravatar": "nherwegh@me.com",
     "team": "Silver"
-  }    
+  },
+  {
+    "fullname": "Coraline Bodnar",
+    "twitter": "cora__b",
+    "github": "corabdr",
+    "linkedin_url": "https://www.linkedin.com/in/coraline-bodnar-660821113/",
+    "email_gravatar": "coraline.bodnar@gmail.com",
+    "team": "Purple"
+  }
 ]
