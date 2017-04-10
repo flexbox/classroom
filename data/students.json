@@ -4,13 +4,15 @@
     "twitter": "phoenix",
     "github": "phoenix",
     "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
-    "email_gravatar": "dleuliette+grey@gmail.com"
+    "email_gravatar": "dleuliette+grey@gmail.com",
+    "team": "Yellow"
   },
   {
     "fullname": "Scott Summers",
     "twitter": "cyclope",
     "github": "cyclope",
     "linkedin_url": "https://www.linkedin.com/in/david-leuliette-456701121/",
-    "email_gravatar": "dleuliette+summers@gmail.com"
-  }
+    "email_gravatar": "dleuliette+summers@gmail.com",
+    "team": "Yellow"
+  }  
 ]
