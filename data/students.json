@@ -62,5 +62,21 @@
     "linkedin_url": "linkedin.com/in/thomas-cauliez-913283121",
     "email_gravatar": "",
     "team": "Red"
+  },
+  {
+    "fullname": "Alexandre Flament",
+    "twitter": "Alekc05",
+    "github": "Diezeal",
+    "linkedin_url": "https://www.linkedin.com/in/alexandre-flament-203164114/",
+    "email_gravatar": "alexandre.flament05@gmail.com",
+    "team": "white"
+  },
+  {
+    "fullname": "Thomas Vanwelden",
+    "twitter": "",
+    "github": "Totoyor",
+    "linkedin_url": "https://www.linkedin.com/in/thomasvanwelden/",
+    "email_gravatar": "vanweldenthomas@live.fr",
+    "team": "white"
   }
 ]
