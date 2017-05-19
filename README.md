@@ -6,5 +6,10 @@
 
 ## Getting Started
 
-1. Add your name in `data/students.yml`
+1. Find your buddy and choose a color for your team!
+1. Add your name in `data/students.json`
 2. Open a new pull-request
+
+## Build your own classroom
+
+The template is based on [codeless with middleman](https://github.com/flexbox/codeless)
